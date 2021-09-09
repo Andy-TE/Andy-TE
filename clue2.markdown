@@ -1,6 +1,1 @@
-<!DOCTYPE html>
-<html>
-<body>
-<p>James Joyce mentioned a good Puzzle would be to cross Dublin without passing a pub. We think this is impossible, but you can you get to where Bloom meets M'Coy without passing a pub.</p>
-</body>
-</html>
+James Joyce mentioned a good Puzzle would be to cross Dublin without passing a pub. We think this is impossible, but you can you get to where Bloom meets M'Coy without passing a pub.
