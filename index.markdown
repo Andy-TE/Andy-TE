@@ -1,4 +1,4 @@
 ---
-layout: home
+layout: default
 ---
 A good little hunt
