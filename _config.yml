@@ -4,5 +4,6 @@ description: We offer fun ways to expore Dublin
 
 header_pages:
  - literacy.markdown
-
+ - faq.markdown
+ - contact.markdwon
 
