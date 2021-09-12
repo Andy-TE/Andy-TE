@@ -2,7 +2,6 @@
 layout: page
 title: Literacy
 permalink: /literacy/
-order: 1
 ---
 
 The hunt begins at O Connell Bridge, once here find a QR code which looks like this
