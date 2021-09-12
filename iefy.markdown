@@ -1,5 +1,13 @@
+Congrautlations! You solved the clue and scanned the QR code!
+
+What is this? Hint Tours is a clue based game to guide people around Dublin. Feel free to start yourself from the below clue or go to the main page to start from the beginning :)
+
+https://www.hinttours.com/
+
+
 <details>
 <summary>Clue 1</summary>
+  
 Of the bridges on the Liffey two are named after famous Novelist, the bridge you seek is is more musical than a open Book.
 Distance - 1.3km
 
