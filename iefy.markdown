@@ -1,8 +1,8 @@
-Congrautlations! You solved the clue and scanned the QR code!
+<h1>Congrautlations!</h1> You solved the clue and scanned the QR code!
 
-What is this? Hint Tours is a clue based game to guide people around Dublin. Feel free to start yourself from the below clue or go to the main page to start from the beginning :)
+What is this? Hint Tours is a clue based game to guide people around Dublin. Feel free to start yourself from the below clue or go to the [main page] (https://www.hinttours.com/) to start from the beginning :)
 
-https://www.hinttours.com/
+
 
 
 <details>
