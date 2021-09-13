@@ -24,7 +24,6 @@ In recent years, the lamps that graced the central island have been restored to 
 
 Of the bridges on the River Liffey two are named after famous novelists, the bridge you seek is more musical than a open Book.  
 
----
 
 
 <details>
