@@ -1,6 +1,6 @@
 theme: minima
 title: Hint Tours
-description: We offer fun ways to expore Dublin. Like the idea? {% include donate.html %}
+description: We offer fun ways to expore Dublin. Like the idea?
 
 header_pages:
  - literacy.markdown
