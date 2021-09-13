@@ -22,6 +22,6 @@ As you walk along this route the o connel bridge where you started is bla bla
 </details>
 
 <details><summary>Finding the QR Code</summary>On the south of the bridge, a pole which controls the flow of the two wheelers.
-<details><summary>Can't find the QR Code?</summary>[Click here for QR code](https://www.hinttours.com/jwuy)</details>
+<details><summary>Can't find the QR Code?</summary>[Click here for QR code](https://www.hinttours.com/jwuy).</details>
 
 </details>
