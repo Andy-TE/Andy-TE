@@ -1,10 +1,8 @@
 ---
 layout: page
-title: Literacy
+title: Literacy Tour of Dublin
 permalink: /literacy/
 ---
-
-# Literacy Tour of Dublin
 
 The tour will take you approximately 5-6km through the city with clues all about literature from Dublin.  
 
