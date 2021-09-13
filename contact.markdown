@@ -4,6 +4,8 @@ title: Contact
 permalink: /contact/
 ---
 
+We would love to hear any feedback or suggestions to improve the clue, you can use the form below to send us any information.
+
 {% include contact-form.html %}  
 
 <br/>
