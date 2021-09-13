@@ -1,6 +1,8 @@
 ---
-title: Congratulations!
+title: Kennedys
 ---
+
+# Congratulations!
 
 You solved the clue and made it to Kennedy's Pub!
 

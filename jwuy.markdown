@@ -1,6 +1,8 @@
 ---
-title: Congratulations!
+title: Samuell Beckkett Bridge
 ---
+
+# Congratulations!
 
 You solved the clue and made it to Samuell Beckkett Bridge!
 
