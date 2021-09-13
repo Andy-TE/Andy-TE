@@ -2,7 +2,7 @@
 
 What is this? Hint Tours is a clue based game to guide people around Dublin. Feel free to start yourself from the below clue or go to the [main page](https://www.hinttours.com/) to start from the beginning :)
 
-<h2>Clue 1 - 1.3 </h2>
+<h3>Clue 1 - 1.3 </h3>
 
 Of the bridges on the River Liffey two are named after famous novelists, the bridge you seek is more musical than a open Book.  
 
