@@ -2,7 +2,7 @@
 title: Samuell Beckkett Bridge
 ---
 
-# Congratulations!
+# Congratulations! You made it to Samuell Beckkett Bridge
 
 You solved the clue and made it to Samuell Beckkett Bridge!
 

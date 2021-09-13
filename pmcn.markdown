@@ -2,7 +2,7 @@
 title: Kennedys
 ---
 
-# Congratulations!
+# Congratulations! You made it to Kennedys
 
 You solved the clue and made it to Kennedy's Pub!
 
