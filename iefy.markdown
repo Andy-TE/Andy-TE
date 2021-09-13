@@ -1,6 +1,6 @@
-# Congratulations!
+title: Congratulations!
 
-You solved the clue and scanned the QR code!
+You solved the clue!
 
 What is this? Hint Tours is a clue based game to guide people around Dublin. Feel free to start yourself from the below clue or go to the [main page](https://www.hinttours.com/) to start from the beginning :)
 
