@@ -18,7 +18,7 @@ Samuell beckett bridge facts and literature
 <details>
 <summary>
 Finding the QR Code</summary>Where you might park your bike.
-<details><summary>Can't find the QR Code?</summary> Occasionally they will disappear but you can **[Click here for next clue](https://www.hinttours.com/pmcn)**.</details>
+<details><summary>Can't find the QR Code?</summary> Occasionally they will disappear but you can Click here for next <a href="https://www.hinttours.com/pmcn">clue</a></details>
 </details>
 
 <details><summary>Hint</summary> Mentioned in Ulysses IV, close to where you might purchase some Lemon Soap
