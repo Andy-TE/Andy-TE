@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Hint Tours Home
+title: Hint Tours
 ---
 
 
