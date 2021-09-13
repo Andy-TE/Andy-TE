@@ -4,8 +4,6 @@ title: Samuel Beckett Bridge
 
 # Congratulations! You solved the clue and made it!
 
-Samuel Beckett Bridge facts and literature
-
 Architect Santiago Calatrava was the lead designer of the bridge.[2] He was assisted with the civil and structural aspects of the design by Roughan & O'Donovan consulting engineers.[4]
 
 This was the second bridge in the area designed by Calatrava, the first being the James Joyce Bridge, which is further upriver.[5]
