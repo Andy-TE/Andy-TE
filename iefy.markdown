@@ -19,8 +19,9 @@ As you walk along this route the O'Connell bridge where you started is bla bla
 <summary>
 Finding the QR Code</summary>On the south of the bridge, a pole which controls the flow of the two wheelers.
 <details><summary>Can't find the QR Code?</summary>
-Occasionally they will disappear but you can Click here for next `{[clue](https://www.hinttours.com/jwuy/)}` </details>
+Occasionally they will disappear but you can Click here for next <a href="https://www.hinttours.com/jwuy/">clue</a> </details>
 </details>
+
 
 <details>
 <summary>Hint</summary> A famous work of the Author Waiting for Godot
