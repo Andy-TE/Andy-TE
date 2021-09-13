@@ -1,10 +1,14 @@
-<h1>Congratulations!</h1> You solved the clue and scanned the QR code!
+# Congratulations!
+
+You solved the clue and scanned the QR code!
 
 What is this? Hint Tours is a clue based game to guide people around Dublin. Feel free to start yourself from the below clue or go to the [main page](https://www.hinttours.com/) to start from the beginning :)
 
-<h3>Clue 1 - 1.3 </h3>
+## Clue 1 - 1.3km
 
 Of the bridges on the River Liffey two are named after famous novelists, the bridge you seek is more musical than a open Book.  
+
+---
 
 As you walk along this route the O'Connell bridge where you started is bla bla
 
