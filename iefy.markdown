@@ -8,12 +8,15 @@ What is this? Hint Tours is a clue based game to guide people around Dublin. Fee
 <details>
 <summary>Clue 1 - 1.3 km</summary>
 
-Of the bridges on the Liffey two are named after famous Novelist's, the bridge you seek is more musical than a open Book.   
+Of the bridges on the Liffey two are named after famous Novelist's, the bridge you seek is more musical than a open Book.  
+
+As you walk along this route the o connel bridge where you started is bla bla
+
 
 <details><summary>Hint</summary>A famous work of the Author Waiting for Godot</details>
 
-<details><summary>Finding the QR Code</summary>Look here</details>
-On the south of the bridge, a pole which controls the flow of the two wheelers.
+<details><summary>Finding the QR Code</summary>On the south of the bridge, a pole which controls the flow of the two wheelers.</details>
+
 
 
 <details><summary>Spoiler</summary> Samuel Beckkett Bridge
