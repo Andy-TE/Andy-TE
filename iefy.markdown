@@ -1,4 +1,6 @@
+---
 title: Congratulations!
+---
 
 You solved the clue!
 
