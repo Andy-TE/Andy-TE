@@ -2,7 +2,7 @@
 title: O Connell Bridge
 ---
 
-# Welcome to the start of the tour at O Connell Bridge
+# Welcome to the start of the tour!
 
 Welcome to the start of the Literacy tour, we hope you have a great time!
 

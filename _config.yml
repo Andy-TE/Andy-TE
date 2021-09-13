@@ -1,6 +1,7 @@
 theme: minima
 title: Hint Tours
-description: We offer fun ways to expore Dublin. Like the idea?
+description: What is this? I just scanned a random QR Code! Hint Tours is a Self guide tour with clues which guides the users through the city! Head to the main page to find your tour
+
 
 header_pages:
  - literacy.markdown
