@@ -1,23 +1,16 @@
 ---
-title: O Connell Bridge
+title: O'Connell Bridge
 ---
 
 # Welcome to the start of the tour! We hope you have a great time!
 
-The original bridge (named Carlisle Bridge for the then Lord Lieutenant of Ireland – Frederick Howard, 5th Earl of Carlisle) was designed by James Gandon, and built between 1791 and 1794.[3]
+O'Connell Bridge was designed and built between 1791 nad 1794, with major reconstruction and widening between 1877 and 1880. The keystone head at the apex of the central span symbolises the River Liffey, corresponding to the heads on Custom Key House(*insertdirection) which personify the other great rivers in Ireland. The bridge was re-opened in 1882 and renamed after Daniel O’Connell.
 
-Originally humped,[3] and narrower, Carlisle bridge was a symmetrical, three semicircular arch structure constructed in granite with a Portland stone balustrade and obelisks on each of the four corners.[4] A keystone head at the apex of the central span symbolises the River Liffey, corresponding to the heads on the Custom House (also designed by James Gandon) which personify the other great rivers of Ireland.
+O'Connell bridge is mentioned in the Dubliners by James Joyce, The Dead. In the story the quote comes up “They say you never cross O'Connell Bridge without seeing a white horse” this could be a reference to the white horse owned by British King William III
 
-
-Straight on or left or right to Westmoreland Street only. A busy scene from the 1930s with Dublin United Tramways Company trams.
-Since 1860, (following similar work on Essex Bridge – now Grattan Bridge), to improve the streetscape and relieve traffic congestion on the bridge, it was intended to widen Carlisle Bridge to bring it to the same width as 70 metres (230 ft) wide Sackville Street (now O'Connell Street) which formed the north side carriageway connection to the Bridge.[4] Between 1877 and 1880 the bridge was reconstructed and widened.[5] As can be seen on orthophotography [6] it spans now 45 m of the Liffey and is about 50 m wide.
-
-When the bridge was reopened c.1882 it was renamed for Daniel O'Connell when the statue in his honour was unveiled.[a]
-
-In recent years, the lamps that graced the central island have been restored to their five lantern glory. In 2004, a pair of pranksters installed a plaque on the bridge dedicated to Father Pat Noise, which remained unnoticed until May 2006,[8] and was still there as of June 2020.
+A pair of pranksters installed a plaque reportedly in 2004, in tribute to their father. The name on the plaque Father Pat Noise is a play on words “pater noster” which means ‘our father’ The plaque has been removed and replaced several times but to date it remains in place..
 
 ---
-
 ## Clue 1 - 1.3km
 
 Of the bridges on the River Liffey two are named after famous novelists, the bridge you seek is more musical than a open Book.  
