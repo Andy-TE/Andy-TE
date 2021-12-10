@@ -2,21 +2,13 @@
 title: Samuel Beckett Bridge
 ---
 
-# Congratulations! You solved the clue and made it!
+# Congratulations! Samuell Beckett Bridge was the answer!
 
-Architect Santiago Calatrava was the lead designer of the bridge.[2] He was assisted with the civil and structural aspects of the design by Roughan & O'Donovan consulting engineers.[4]
+The bridge was completed in December 2009, It was named by Dublin City Council and is a twin brdige with Samuell's friend James Joyce, which is the West from the starting location along the Liffey.
 
-This was the second bridge in the area designed by Calatrava, the first being the James Joyce Bridge, which is further upriver.[5]
+A brdige had been long planned to sit in this location and the first design included a geometrical interpration of a man straddling the river, with his outstrected arms reaching skwayds and his head bent as if in homage.
 
-Constructed by a "Graham Hollandia Joint Venture",[3] the main span of the Samuel Beckett Bridge is supported by 31 cable stays from a doubly back-stayed single forward arc tubular tapered spar, with decking provided for four traffic and two pedestrian lanes. It is also capable of opening through an angle of 90 degrees allowing ships to pass through. This is achieved through a rotational mechanism housed in the base of the pylon.[3]
-
-The shape of the spar and its cables is said to evoke an image of a harp lying on its edge.[6] (The harp being the national symbol for Ireland from as early as the thirteenth century).
-
-The steel structure of the bridge was constructed in Rotterdam by Hollandia,[7] a Dutch company also responsible for the steel fabrication of the London Eye.[8] The steel span of the bridge was transferred from the Hollandia wharf in Krimpen aan den IJssel on 3 May 2009,[7][9] with support from specialist transport company ALE Heavylift.[citation needed]
-
-The bridge, which cost €60 million,[10] is named for Irish writer Samuel Beckett. It was officially opened to pedestrians on 10 December 2009 by Dublin Lord Mayor, Emer Costello[1][11] and to road traffic at 7 am the following day.[10]
-
-The bridge won Engineers Ireland's 'Engineering Project of the Year' in 2010.[4]
+The second and successful design was pitched as a Irish Harp lying on it's side, it was instantly recognised as a masterpiece and construction was started in 2007
 
 ---
 
