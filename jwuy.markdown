@@ -2,11 +2,19 @@
 title: Samuel Beckett Bridge
 ---
 
-# Congratulations! You solved the clue and made it!
+# Congratulations! Samuell Beckett Bridge was the answer!
 
+<<<<<<< HEAD
 The shape of the spar and its cables is said to evoke an image of a harp lying on its edge. Another bridge on the Liffey is the James Joyce Bridge which is meant to represent an open book. Samuel Beckett Bridge was built in 2009 and rotates horizontally 90 degrees to allow ships to pass by.
 
 Beckett won the nobel prize for literature in 1969 for his writing. Since Beckett's death, all rights for performance of his plays are handled by the Beckett estate, currently managed by Edward Beckett (the author's nephew). The estate has a controversial reputation for maintaining firm control over how Beckett's plays are performed and does not grant licences to productions that do not adhere to the writer's stage directions.
+=======
+The bridge was completed in December 2009, It was named by Dublin City Council and is a twin brdige with Samuell's friend James Joyce, which is the West from the starting location along the Liffey.
+
+A brdige had been long planned to sit in this location and the first design included a geometrical interpration of a man straddling the river, with his outstrected arms reaching skwayds and his head bent as if in homage.
+
+The second and successful design was pitched as a Irish Harp lying on it's side, it was instantly recognised as a masterpiece and construction was started in 2007
+>>>>>>> 19dc9b9431bbd749325afc9033d6ebb2e34d356e
 
 ---
 
