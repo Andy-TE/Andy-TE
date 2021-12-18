@@ -3,7 +3,6 @@ layout: home
 title: Hint Tours
 ---
 
-
 ## Our first tour will be out soon! A Literacy Tour around Dublin
 
 Hint Tours we will take you on a fun packed tour around Dublin, you will visit some of the great sites in the city.
