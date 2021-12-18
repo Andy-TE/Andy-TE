@@ -17,6 +17,3 @@ You will passthrough several of the cities best attractions, feel free to stop o
 We will guide you through each location with a hint on what's next can you solve the clue and get to the next location?
 
 The tours are completely free and self guided, if you enjoy the tour feel free to leave a donation at the bottom of the page.
-
----
-Feedback
