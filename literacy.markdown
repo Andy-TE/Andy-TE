@@ -4,7 +4,7 @@ title: Literacy Tour
 permalink: /literacy/
 ---
 
-The Litracy tour will take you approximately 5-6km through the city with clues all about literature from Dublin.  
+The Litracy tour will take you approximately 6km through the city with clues all about literature from Dublin.  
 
 The Literacy Tour starts on O Connell Bridge, once there you will need to find the QR code to give you your first clue.
 WARNING TOUR NOT IN OPERATION!
