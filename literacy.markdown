@@ -15,5 +15,5 @@ The QR code is right in the centre of the bridges
 
 Once you have solved first clue head to the next location, if you find it a little tricky hints and spoilers are included for every clue.
 
-The QR Code's you look for look like the below
+Look for QR codes like this!
 ![](/assets/iefy.png)
