@@ -4,7 +4,7 @@ title: O'Connell Bridge
 
 # Welcome to the start of the tour! We hope you have a great time!
 
-O'Connell Bridge was designed and built between 1791 nad 1794, with major reconstruction and widening between 1877 and 1880. The keystone head at the apex of the central span symbolises the River Liffey, corresponding to the heads on Custom Key House(*insertdirection) which personify the other great rivers in Ireland. The bridge was re-opened in 1882 and renamed after Daniel O’Connell.
+O'Connell Bridge was designed and built between 1791 nad 1794, with major reconstruction and widening between 1877 and 1880. The keystone head at the apex of the central span symbolises the River Liffey, corresponding to the heads on Custom Key House which is two the easy. which personify the other great rivers in Ireland. The bridge was re-opened in 1882 and renamed after Daniel O’Connell.
 
 O'Connell bridge is mentioned in the Dubliners by James Joyce, The Dead. In the story the quote comes up “They say you never cross O'Connell Bridge without seeing a white horse” this could be a reference to the white horse owned by British King William III
 

@@ -4,16 +4,9 @@ title: Kennedys
 
 # Congratulations! You made it to Kennedys
 
-You solved the clue and made it to Kennedy's Pub!
+For thoose who tried to get here without passing a pub you will have passed through the station. The station is a commuter stop for peoiple to worked in the city centre including Thomas Kinsealla who worked on Merrion street.  His poemm "Westland row from night walker captures the sense of coming down into the street from the station
 
-Westland Row was also a commuter stop for those going to work in the city centre from the south side of Dublin. These included the poet Thomas Kinsella, who worked in the Department of Finance on Merrion Street. His poem “Westland Row”, from his volume Nightwalker published in 1968, captures that sense of coming down into the street from the station platform above:
-
-We came to the outer light down a ramp in the dark Through eddying cold gusts and grit, our ears Stopped with noise.
-
-As I move up Westland Row towards Clare Street, the street is dingy-looking; some of it is even derelict. I know that Joyce’s father spent time here, as did the parents of Wilde, John Stanislaus Joyce coming here in the 1870s, the Wildes two decades before that. It is hard not to imagine how desolate it must have been then in the years after the Famine when Dublin was a capital city from which the glory had departed. It had no parliament then, since Ireland had been ruled directly from Westminster following the Act of Union of 1800. As Belfast was becoming an industrial city, Dublin stagnated, or seemed to.
-
-So much has disappeared; so much stays in the memory. The bank is gone, and so, too, the old Academy Cinema, which was once the Antient Concert Rooms, where Joyce sang and where he set his story “A Mother”. I saw Fellini’s Amarcord in the Academy in the spring of 1975 with my friend Gerry McNamara. In those years, the Irish Film Censor used to cut the dirty scenes from films with scissors, so it was only years later that I got to see the episode where the Italian boys all masturbate.
-
+"We came to the outer light down a ramp in the dark Through eddying cold gusts and grit, our ears Stopped with noise."
 
 
 
