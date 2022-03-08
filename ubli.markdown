@@ -5,16 +5,14 @@ title: Oscar Wilde
 # Congratulations! You made it to Oscar Wilde's Statue
 
 
-What is this? Hint Tours is a clue based game to guide people around Dublin. Feel free to start yourself from the below clue or go to the [main page](https://www.hinttours.com/) to start from the beginning :)
+Oscar Wilde Info
+
+
+---
 
 ## Clue 4 - < 1km
 
 An English Man, Irish Man and Scotsman all walk into a Bar. The Irish man finds a book claiming to of written it. The Englishman and scotsman both claimed they copied it.
-
----
-
-Oscar Wilde Information
-
 
 <details>
 <summary>

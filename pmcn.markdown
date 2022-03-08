@@ -4,21 +4,17 @@ title: Kennedys
 
 # Congratulations! You made it to Kennedys
 
-For thoose who tried to get here without passing a pub you will have passed through the station. The station is a commuter stop for peoiple to worked in the city centre including Thomas Kinsealla who worked on Merrion street.  His poemm "Westland row from night walker captures the sense of coming down into the street from the station
+For thoose who tried to get here without passing a pub you will have passed through the station. The station is a commuter stop for peoiple to worked in the city centre including Thomas Kinsealla who worked on Merrion street.  His poem "Westland Row" from night walker captures the sense of coming down into the street from the station
 
 "We came to the outer light down a ramp in the dark Through eddying cold gusts and grit, our ears Stopped with noise."
 
+Sweny's Pharmacy is just over the road from Kennedy's pub, it was made famous in Ulysses by James Joyce. It is no longer a working pharmacy, but has been maintained in it's oringal 1850's style. Looking through the windows you will see the old vintage cabinets along with opened medicine bottles.  It is maintained by a group of volunteers who also open late on Thursdays for readings.
 
-
+---
 
 ## Clue 3 - < 1km
 
 Do you know where the man leans who dueled with his wallpaper?
-
----
-
-Kennedy's and Sweny's information and ref
-
 
 <details>
 <summary>
