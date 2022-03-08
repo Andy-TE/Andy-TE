@@ -4,16 +4,13 @@ title: St Stephens Green
 
 # Congratulations! You made it to St Stephesn Green!
 
-What is this? Hint Tours is a clue based game to guide people around Dublin. Feel free to start yourself from the below clue or go to the [main page](https://www.hinttours.com/) to start from the beginning :)
+St Stephens Green information
 
 ## Clue 7 - < 1km
 
 Clue to get to dublin Castle
 
 ---
-
-St Stephens Green information
-
 
 <details>
 <summary>

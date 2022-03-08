@@ -4,9 +4,9 @@ title: Oscar Wilde
 
 # Congratulations! You made it to Oscar Wilde's Statue
 
+Oscar Wilde was born at 21 Westland Row which is the last on the corner as you were coming to the statue.
 
-Oscar Wilde Info
-
+Wilde's tomb is located in Père Lachaise Cemetery in Paris, it is a popular for literary minded toursist, as a mark of admiration in the late 1990s they started kissing the status and leaving lipstick marks. This has however lead to the status eroding more quickly and the govement paid for  a glass status to be placed around the monument.
 
 ---
 

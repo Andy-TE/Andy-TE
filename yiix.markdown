@@ -4,16 +4,13 @@ title: Grafton Street
 
 # Congratulations! You made it to Grafton Street
 
-What is this? Hint Tours is a clue based game to guide people around Dublin. Feel free to start yourself from the below clue or go to the [main page](https://www.hinttours.com/) to start from the beginning :)
+Grafton street information
+
+---
 
 ## Clue 6 - < 1km
 
 The Bard of Bengal, was close friends of Yates but his Bust resides closer to another Novelist. Head to the spot inbetween
-
----
-
-Grafton street information
-
 
 <details>
 <summary>

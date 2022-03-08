@@ -4,16 +4,13 @@ title: The Book of Kells
 
 # Congratulations! You made it to The Book of Kells
 
-What is this? Hint Tours is a clue based game to guide people around Dublin. Feel free to start yourself from the below clue or go to the [main page](https://www.hinttours.com/) to start from the beginning :)
+Trinity College
+
+---
 
 ## Clue 5 - < 1km
 
 You can lightly trip along the ledge in November.
-
----
-
-Tinity College and book fo Kells Information
-
 
 <details>
 <summary>
